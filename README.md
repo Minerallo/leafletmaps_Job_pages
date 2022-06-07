@@ -9,16 +9,6 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
 
-#### Geocode your address data with Google Sheets add-on
-To geocode (find latitude and longitude coordinates), we recommend installing the free [Geocoding by SmartMonkey add-on for Google Sheets](https://gsuite.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312). Insert your addresses in place of the samples in the Geocoding Details tab, then use Add-Ons > Geocoding > Geocode Details menu. Learn more in *Hands-On Data Visualization* https://handsondataviz.org/geocode.html
-
-![Geocoding](geocode.png)
-
-#### To finalize your map, you need to either:
-- Download each Google Sheets tab as a CSV file and upload into a `csv` subfolder in your GitHub repo
-  - OR
-- Get your own Google Sheets API Key to insert into `google-doc-url.js`
-
 See more in the tutorial https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html
 
 ## Credits (and licenses)
