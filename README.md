@@ -1,12 +1,11 @@
-# Leaflet Storymaps with Google Sheets
-Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
-Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
+# Job offer Pages in Earthsciences
+The EGU GDblog references the online Job offer positions pages in Earthsciences, with an emphasis on geology and geophysics.
 
-## Live links (replace with your own)
+## Live links to the access the map and the google sheet database containing the links to the job pages
 - Leaflet Map https://minerallo.github.io/leafletmaps_Job_pages/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1ChFbuHBnZaOOfT_sAypkAVVlBWuwN2UMq_jQRyveqd4/edit#gid=0
 
-## Create Your Own
+### This worflow is built on the following previous work
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
 
 See more in the tutorial https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html
