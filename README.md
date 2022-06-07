@@ -5,7 +5,7 @@ The EGU GDblog references the online Job offer positions pages in Earthsciences,
 - Leaflet Map https://minerallo.github.io/leafletmaps_Job_pages/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1ChFbuHBnZaOOfT_sAypkAVVlBWuwN2UMq_jQRyveqd4/edit#gid=0
 
-### This worflow is built on the following previous work
+### This worflow is built upon the following work
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
 
 See more in the tutorial https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html
