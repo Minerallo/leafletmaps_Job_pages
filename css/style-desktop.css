@@ -18,7 +18,7 @@
   #title {
     width: 60vw;
     max-width: 500px;
-    top: 150;
+    top: 0;
   }
 
   .leaflet-control-attribution {
