@@ -1,4 +1,8 @@
 # Job offer Pages in Earthsciences
+
+> [!IMPORTANT]
+> This repository is archived and is no longer maintained. Development continues in the new [Minerallo/jobmap](https://github.com/Minerallo/jobmap) repository. You can try the current platform at [jobmap.jobmap.workers.dev](https://jobmap.jobmap.workers.dev/).
+
 The EGU GDblog references the online Job offer positions pages in Earthsciences, with an emphasis on geology and geophysics.
 
 ## Live links to the access the map and the google sheet database containing the links to the job pages
